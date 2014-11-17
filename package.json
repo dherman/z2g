@@ -2,7 +2,7 @@
   "name": "z2g",
   "description": "Converter from Zimbra to Gmail email filters",
   "main": "lib/compile.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "node": ">=0.8.6"
   },
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dherman/sieve-parser.git"
+    "url": "git://github.com/dherman/z2g.git"
   },
   "scripts": {
   },
