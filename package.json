@@ -1,0 +1,33 @@
+{
+  "name": "z2g",
+  "description": "Converter from Zimbra to Gmail email filters",
+  "main": "lib/compile.js",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=0.8.6"
+  },
+  "author": "Dave Herman",
+  "license": "MIT",
+  "dependencies": {
+    "lexxy": "0.4.0",
+    "jison": "0.4.15",
+    "moment": "2.8.3",
+    "concat-map": "0.0.1"
+  },
+  "bin": {
+    "z2g": "./lib/cli.js"
+  },
+  "devDependencies": {
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dherman/sieve-parser.git"
+  },
+  "scripts": {
+  },
+  "keywords": [
+  ]
+}
