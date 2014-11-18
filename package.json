@@ -12,7 +12,8 @@
     "lexxy": "0.4.0",
     "jison": "0.4.15",
     "moment": "2.8.3",
-    "concat-map": "0.0.1"
+    "concat-map": "0.0.1",
+    "xml-escape": "1.0.0"
   },
   "bin": {
     "z2g": "./lib/cli.js"
