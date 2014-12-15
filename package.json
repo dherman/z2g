@@ -2,7 +2,7 @@
   "name": "z2g",
   "description": "Converter from Zimbra to Gmail email filters",
   "main": "lib/compile.js",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "node": ">=0.8.6"
   },
